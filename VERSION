@@ -1,0 +1,9 @@
+commit 71a9770bfbfe535536f3b6ec0f26cdceaaf923d6
+Author: Christopher George <chrisgeorge@google.com>
+Date:   Wed Jan 20 17:16:46 2021 -0500
+
+    deploy svg for editor (#1850)
+    
+    * deploy assets for editor
+    
+    * update svg location
